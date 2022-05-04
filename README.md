@@ -26,6 +26,18 @@
 
 ⚡ Fun fact: I love animated movies which has finally pushed me to learn about film and animation.
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sohaib90&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Sohaib90)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
 
 <!--
 **Sohaib90/Sohaib90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
