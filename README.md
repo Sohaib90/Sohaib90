@@ -15,11 +15,17 @@
 </h1>
 
 🔭 I’m currently working as a Software Engineer at Accenture building software solutions for Autonomous vehicles. 
+
 🌱 I’m currently learning 3D graphics programming, Maya Python API, and Animation Programming.
+
 👯 I’m looking to collaborate with Technical Artists in the game/film industry so I can build up my portfolio.
-🤔 I’m looking for help with changing my career field from being a software engineer to a technical artist
+
+🤔 I’m looking for help with changing my career field from being a software engineer to a technical artist.
+
 📫 How to reach me: sohaib.arshid101@gmail.com
-⚡ Fun fact: I love animated movies which has finally pushed me to learn about film and animation
+
+⚡ Fun fact: I love animated movies which has finally pushed me to learn about film and animation.
+
 
 <!--
 **Sohaib90/Sohaib90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
