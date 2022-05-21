@@ -20,8 +20,6 @@
 
 👯 I’m looking to collaborate with Technical Artists in the game/film industry so I can build up my portfolio.
 
-🤔 I’m looking for help with changing my career field from being a software engineer to a technical artist.
-
 📫 How to reach me: sohaib.arshid101@gmail.com
 
 ⚡ Fun fact: I love animated movies which has finally pushed me to learn about film and animation.
