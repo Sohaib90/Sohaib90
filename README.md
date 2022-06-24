@@ -15,10 +15,6 @@
 
 🔭 I’m currently working as a Software Engineer at Accenture building software solutions for Autonomous vehicles. 
 
-🌱 I’m currently learning 3D graphics programming, Maya Python API, and Animation Programming.
-
-👯 I'm currently working on changing my career field to land into animation/gaming industry
-
 📫 How to reach me: sohaib.arshid101@gmail.com
 
 ⚡ Fun fact: I love animated movies
