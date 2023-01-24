@@ -22,7 +22,17 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sohaib90&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/Sohaib90/Sohaib90">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohaib90&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/Sohaib90/Sohaib90">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sohaib90&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sohaib Arshid Stats" />
+</a>
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sohaib90&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 
 <!--
