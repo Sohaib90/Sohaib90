@@ -15,6 +15,9 @@
 
 🔭 I’m currently working as a Software Engineer at Accenture, building software solutions for automated guided vehicles. 
    Currently designing a fleet management system for AGVs
+ 
+🔭 Interested in learning game development and game AI (currently learning 3D graphics programming using SDL and C)
+   
 
 📫 How to reach me: sohaib.arshid101@gmail.com
 
