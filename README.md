@@ -17,6 +17,8 @@
    Currently designing a fleet management system for AGVs
  
 🔭 Interested in learning game development and game AI (currently learning 3D graphics programming using SDL and C)
+
+🔭 Sometimes I write about stuff at: https://medium.com/@sohaib.arshid101
    
 
 📫 How to reach me: sohaib.arshid101@gmail.com
