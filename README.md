@@ -13,12 +13,14 @@
   Hi there
 </h1>
 
-🔭 I’m currently working as a Software Engineer at Accenture, building software solutions for automated guided vehicles. 
+I’m currently working as a Software Engineer at Accenture, building software solutions for automated guided vehicles. 
    Currently designing a fleet management system for AGVs
 
-📫 How to reach me: sohaib.arshid101@gmail.com
+How to reach me: sohaib.arshid101@gmail.com
 
-⚡ Fun fact: I love animated movies
+Portfolio: https://portfolio-three-wine-16.vercel.app/
+
+Fun fact: I love animated movies
 
 <!--
 **Sohaib90/Sohaib90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
